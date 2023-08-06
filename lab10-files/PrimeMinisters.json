@@ -1,0 +1,50 @@
+{
+  "Trudeau": {
+    "FirstName": "Justin",
+    "LastName": "Trudeau",
+    "Term": "4 November 2015 - Incumbent",
+    "Party": "Liberal"
+  },
+  "Harper": {
+    "FirstName": "Stephen",
+    "LastName": "Harper",
+    "Term": "6 February 2006 - 3 November 2015",
+    "Party": "Conservative"
+  },
+  "Martin": {
+    "FirstName": "Paul",
+    "LastName": "Martin",
+    "Term": "12 December 2003 - 6 February 2006",
+    "Party": "Liberal"
+  },
+  "Chretien": {
+    "FirstName": "Jean",
+    "LastName": "Chretien",
+    "Term": "4 November 1993 - 11 December 2003",
+    "Party": "Liberal"
+  },
+  "Campbell": {
+    "FirstName": "Kim",
+    "LastName": "Campbell",
+    "Term": "25 June 1993 - 3 November 1993",
+    "Party": "Conservative"
+  },
+  "Mulroney": {
+    "FirstName": "Brian",
+    "LastName": "Mulroney",
+    "Term": "17 September 1984 - 24 June 1993",
+    "Party": "Conservative"
+  },
+  "Turner": {
+    "FirstName": "John",
+    "LastName": "Turner",
+    "Term": "30 June 1984 - 16 September 1984",
+    "Party": "Liberal"
+  },
+  "Clark": {
+    "FirstName": "Joe",
+    "LastName": "Clark",
+    "Term": "4 June 1979 - 2 March 1980",
+    "Party": "Conservative"
+  }
+}
